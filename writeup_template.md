@@ -90,7 +90,7 @@ The thick lines from the draw lines function are used to annotate the original p
 
 
 
-### 3. Suggest possible improvements to your pipeline
+### 3. Possible improvements to your pipeline
 
 * Usage of a better filter to extract required information. May be an HSV with a filter.
 * A higher order fit for drawing the lines
